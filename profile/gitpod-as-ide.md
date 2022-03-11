@@ -12,8 +12,7 @@ Since not all of us can access `npm` and other commands that require higher hard
 
 4. Before you click the Gitpod button, copy the GitHub branch name provided in the Height App
 
-5. Create a new branch with the branch npame you just copied
-   - Use the command: `git checkout -b [paste the branch name you copied]` in the cloned folder of the repo in your system
+5. Create a new branch with the branch name you just copied using the branch menu on Github
 
 6. Work on your task. It is recommended to work on features little by little with commits in between
 
